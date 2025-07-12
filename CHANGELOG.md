@@ -1,3 +1,92 @@
+## 41 (2025-07-12)
+- Merge pull request #75 from beebablaster/releases/40
+- chore: changelog for 40
+- Merge pull request #71 from beebablaster/releases/38
+- chore: changelog for 38
+- Merge pull request #67 from beebablaster/releases/36
+- Merge pull request #69 from beebablaster/releases/37
+- Merge branch 'main' into releases/36
+- chore: changelog for 37
+- Merge pull request #65 from beebablaster/releases/35
+- chore: changelog for 36
+- Merge branch 'main' into releases/35
+- Merge pull request #63 from beebablaster/releases/34
+- chore: changelog for 35
+- chore: changelog for 34
+- Merge pull request #59 from beebablaster/fix/release
+- Merge pull request #61 from beebablaster/releases/33
+- chore: changelog for 33
+- release workflow fixes
+- Merge pull request #58 from beebablaster/releases/32
+- chore: changelog for 32
+- Merge pull request #54 from beebablaster/releases/30
+- chore: changelog for 30
+- Merge pull request #44 from damirsyzdykov-indrive/test/other-user
+- Merge pull request #52 from beebablaster/releases/29
+- chore: changelog for 29
+- Merge pull request #50 from beebablaster/releases/28
+- chore: changelog for 28
+- Merge pull request #48 from beebablaster/releases/27
+- chore: changelog for 27
+- Merge pull request #46 from beebablaster/releases/26
+- chore: changelog for 26
+- test: other user
+- Merge pull request #43 from beebablaster/releases/25
+- chore: changelog for 25
+- Merge pull request #41 from beebablaster/releases/24
+- chore: changelog for 24
+- Merge pull request #39 from beebablaster/releases/23
+- chore: changelog for 23
+- Merge pull request #31 from beebablaster/releases/19
+- Merge branch 'main' into releases/19
+- Merge pull request #35 from beebablaster/releases/21
+- chore: changelog for 21
+- Merge pull request #33 from beebablaster/releases/20
+- chore: changelog for 20
+- Merge pull request #29 from beebablaster/releases/18
+- chore: changelog for 19
+- chore: changelog for 18
+- Merge pull request #27 from beebablaster/releases/17
+- Merge pull request #25 from beebablaster/fix/test-release
+- chore: changelog for 17
+- Merge pull request #24 from beebablaster/releases/16
+- fix: test release
+- chore: changelog for 16
+- Merge pull request #22 from beebablaster/releases/15
+- chore: changelog for 15
+- Merge pull request #20 from beebablaster/test-pls
+- test release
+- Merge pull request #17 from beebablaster/fix/automerge
+- fix: automerge
+- Merge pull request #14 from beebablaster/fix/automerge
+- fix: automerge
+- Merge pull request #13 from beebablaster/upd/automerge
+- upd: automerge
+- Merge pull request #12 from beebablaster/test-release
+- yep
+- test release
+- Merge remote-tracking branch 'origin/main'
+- Merge pull request #11 from beebablaster/upd/release-workflow
+- upd: release workflow
+- upd: release workflow
+- Merge pull request #10 from beebablaster/upd/app-address
+- upd: added app address
+- fix: hotfix workflow
+- fix: hotfix workflow
+- fix: hotfix workflow
+- fix: hotfix workflow
+- please
+- fix: deploy issue comment
+- fix: deploy issue comment
+- fix: deploy issue comment
+- please 2
+- please
+- fix: deploy workflow
+- upd: version description
+- Merge remote-tracking branch 'origin/main'
+- fix: deploy workflow
+- merge release 10
+
 ## 40 (2025-07-12)
 - Merge pull request #71 from beebablaster/releases/38
 - chore: changelog for 38
