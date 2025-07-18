@@ -1,3 +1,6 @@
+## 45 (2025-07-18)
+
+
 ## 42 (2025-07-12)
 - Merge pull request #77 from beebablaster/releases/41
 - chore: changelog for 41
