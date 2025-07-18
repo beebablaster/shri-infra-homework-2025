@@ -58,8 +58,12 @@ jobs:
       - name: create git tag
         if: github.event_name == 'workflow_dispatch'
         run: |
-          git tag releases/${VERSION}
-          git push origin releases/${VERSION}
+          if ! git rev-parse -q --verify "refs/tags/releases/${VERSION}" >/dev/null; then
+            git tag "releases/${VERSION}"
+            git push origin "refs/tags/releases/${VERSION}"
+          else
+            echo "Tag releases/${VERSION} already exists — skip"
+          fi
 
       - name: define LAST_TAG
         id: lasttag
